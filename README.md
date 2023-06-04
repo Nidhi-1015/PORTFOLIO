@@ -1,2 +1,2 @@
-# my_ds_proj
-First Data Analyst project -covid
+# Data Analytics
+My learning projects and portfolios
